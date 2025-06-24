@@ -21,8 +21,10 @@
 .profile-avatar-image {
     width: 120px;
     height: 120px;
-    border-radius: 15px;
+    border-radius: 150px;
     overflow: hidden;
+    object-fit: cover;
+    background-color: transparent;
 }
 
 .profile-avatar-image img {
@@ -55,12 +57,12 @@
     background-color: #e50914;
     padding: 4px 8px;
     border-radius: 4px;
-    font-size: 14px;
+    font-size: 15px;
 }
 
 .membership-details {
     color: #b3b3b3;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 /* Profile Section */
@@ -87,6 +89,7 @@
     border-radius: 5px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 }
+
 .setting-item:hover {
     background-color: #3a3a3a;
 }
