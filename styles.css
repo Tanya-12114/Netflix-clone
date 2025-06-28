@@ -75,11 +75,11 @@ body {
 
 /* Hero Section */
 .hero {
-  height: 150vh;
+  height: 100vh;
   background: linear-gradient(to bottom,
       rgba(0, 0, 0, 0.4) 0%,
       rgba(0, 0, 0, 0.8) 100%),
-    url("stranger-things.webp") center/cover;
+    url("squid-game.webp") center/cover no-repeat;
   display: flex;
   align-items: center;
   padding: 0 60px;
@@ -175,12 +175,12 @@ body {
   padding-bottom: 10px;
   scroll-behavior: smooth;
 
-  -ms-overflow-style: none;  
-  scrollbar-width: none;    
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
 
 .content-row::-webkit-scrollbar {
-  display: none;  
+  display: none;
 }
 
 /* Content Cards */
