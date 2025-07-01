@@ -3,6 +3,11 @@
 A fully responsive **Netflix Clone** landing page built with **HTML** and **CSS**. This project mimics the look and feel of Netflix's homepage UI, complete with a hero section, movie sliders, hover overlays, and a modern footer.
 
 ---
+## Live Website
+
+Click below to view the site:
+
+👉 [https://tanya-12114.github.io/Netflix-clone/](https://tanya-12114.github.io/Netflix-clone/)
 
 ## Features
 
